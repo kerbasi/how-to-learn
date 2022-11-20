@@ -1,0 +1,7 @@
+﻿.cards__item {
+  margin-top: 60px;
+  padding: 0;
+  text-align: center;
+  list-style: none;
+  flex-basis: 240px;
+}
