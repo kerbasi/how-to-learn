@@ -6,6 +6,7 @@
   font-weight: 400;
   text-decoration: none;
   color: #2f80ed;
+  align-self: flex-start;
   transition: opacity 0.5s ease-in;
 }
 
